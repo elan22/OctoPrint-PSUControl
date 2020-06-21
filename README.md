@@ -6,14 +6,14 @@ Power supply can be automatically switched on when user specified commands are s
 Supports Commands (G-Code or System) or GPIO to switch power supply on/off.
 
 ![PSUControl](psucontrol_navbar_settings.png?raw=true)
- 
- 
+![PSUControl](psucontrol_power_on_options.png?raw=true)
+
 ## Setup
 Install the plugin using Plugin Manager from Settings
- 
+
 ## Settings
 See the [Wiki](https://github.com/kantlivelong/OctoPrint-PSUControl/wiki/Settings)
- 
+
 ## Troubleshooting
 See the [Wiki](https://github.com/kantlivelong/OctoPrint-PSUControl/wiki/Troubleshooting)
 
